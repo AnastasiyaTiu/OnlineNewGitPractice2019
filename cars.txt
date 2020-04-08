@@ -6,3 +6,4 @@ Tesla
 Lexus RX
 Mercedes S500
 Matiz
+Captiva
