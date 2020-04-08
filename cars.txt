@@ -9,4 +9,5 @@ Mercedes S500
 Matiz
 Mazda 3
 Captiva
+Subaru WRX STI
 Honda Civic
